@@ -1,4 +1,4 @@
-State,Total num of schools,Number school shootings,Likelihood,Grade
+State,Total_num_of_schools,Number_school_shootings,Likelihood,Grade
 Alabama,"1,637",10,0.006108735492,0
 Alaska,507,1,0.001972386588,0
 Arizona,"2,252",2,0.0008880994671,0
